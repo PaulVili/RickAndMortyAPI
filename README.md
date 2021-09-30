@@ -1,1 +1,1 @@
-# RickAndMortyAPI
+# https://paulvili.github.io/RickAndMortyAPI/
